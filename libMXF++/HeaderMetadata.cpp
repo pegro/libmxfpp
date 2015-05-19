@@ -282,6 +282,7 @@ void HeaderMetadata::initialiseObjectFactory()
     REGISTER_CLASS(DMSet);
     REGISTER_CLASS(SubDescriptor);
     REGISTER_CLASS(AVCSubDescriptor);
+    REGISTER_CLASS(VC2SubDescriptor);
 
     // Add new classes here
 

@@ -40,6 +40,7 @@ libmetadata_la_SOURCES = \
 	TimecodeComponent.cpp \
 	Track.cpp \
 	VBIDataDescriptor.cpp \
+	VC2SubDescriptor.cpp \
 	WaveAudioDescriptor.cpp
 
 
@@ -87,4 +88,5 @@ library_include_HEADERS = \
 	TimecodeComponent.h \
 	Track.h \
 	VBIDataDescriptor.h \
+	VC2SubDescriptor.h \
 	WaveAudioDescriptor.h

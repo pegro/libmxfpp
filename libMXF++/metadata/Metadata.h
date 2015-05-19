@@ -72,6 +72,7 @@
 #include <libMXF++/metadata/VBIDataDescriptor.h>
 #include <libMXF++/metadata/DMSet.h>
 #include <libMXF++/metadata/AVCSubDescriptor.h>
+#include <libMXF++/metadata/VC2SubDescriptor.h>
 
 
 #endif

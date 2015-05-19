@@ -127,6 +127,7 @@
     <ClCompile Include="..\..\..\libMXF++\metadata\TimecodeComponent.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\Track.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\VBIDataDescriptor.cpp" />
+    <ClCompile Include="..\..\..\libMXF++\metadata\VC2SubDescriptor.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\WaveAudioDescriptor.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\base\AES3AudioDescriptorBase.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\base\ANCDataDescriptorBase.cpp" />
@@ -165,6 +166,7 @@
     <ClCompile Include="..\..\..\libMXF++\metadata\base\TimecodeComponentBase.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\base\TrackBase.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\base\VBIDataDescriptorBase.cpp" />
+    <ClCompile Include="..\..\..\libMXF++\metadata\base\VC2SubDescriptorBase.cpp" />
     <ClCompile Include="..\..\..\libMXF++\metadata\base\WaveAudioDescriptorBase.cpp" />
     <ClCompile Include="..\..\..\libMXF++\extensions\TaggedValue.cpp" />
   </ItemGroup>
@@ -219,6 +221,7 @@
     <ClInclude Include="..\..\..\libMXF++\metadata\TimecodeComponent.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\Track.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\VBIDataDescriptor.h" />
+    <ClInclude Include="..\..\..\libMXF++\metadata\VC2SubDescriptor.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\WaveAudioDescriptor.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\base\AES3AudioDescriptorBase.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\base\ANCDataDescriptorBase.h" />
@@ -257,6 +260,7 @@
     <ClInclude Include="..\..\..\libMXF++\metadata\base\TimecodeComponentBase.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\base\TrackBase.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\base\VBIDataDescriptorBase.h" />
+    <ClInclude Include="..\..\..\libMXF++\metadata\base\VC2SubDescriptorBase.h" />
     <ClInclude Include="..\..\..\libMXF++\metadata\base\WaveAudioDescriptorBase.h" />
     <ClInclude Include="..\..\..\libMXF++\extensions\TaggedValue.h" />
   </ItemGroup>

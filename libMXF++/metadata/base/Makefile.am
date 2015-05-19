@@ -38,6 +38,7 @@ libbase_la_SOURCES = \
 	TimecodeComponentBase.cpp \
 	TrackBase.cpp \
 	VBIDataDescriptorBase.cpp \
+	VC2SubDescriptorBase.cpp \
 	WaveAudioDescriptorBase.cpp
 
 
@@ -84,4 +85,5 @@ library_include_HEADERS = \
 	TimecodeComponentBase.h \
 	TrackBase.h \
 	VBIDataDescriptorBase.h \
+	VC2SubDescriptorBase.h \
 	WaveAudioDescriptorBase.h
